@@ -50,7 +50,7 @@ Router(config)# ip dhcp excluded-address 192.168.1.1 192.168.1.10
 📂 ملفات اللاب
 Packet Tracer File – Lab3_DHCP_Network.pkt
 
-Topology- Image
+topology Image
 
 PC IP Config Image
 
