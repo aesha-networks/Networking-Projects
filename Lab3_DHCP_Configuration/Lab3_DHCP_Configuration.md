@@ -23,6 +23,7 @@
 ### 2️⃣ إعداد DHCP على الراوتر
 - افتح CLI للراوتر.
 - اكتب أوامر الإعداد.
+- - [Command Line](command-line.png)
 
 ---
 
@@ -39,4 +40,4 @@
 
 ## 📂 ملفات اللاب
 - [Packet Tracer File – Lab3_DHCP_Network.pkt](Lab3_DHCP_Network.pkt)
-- [Command Line File](command-line.txt)
+
