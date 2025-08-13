@@ -48,15 +48,11 @@ Router(config)# ip dhcp excluded-address 192.168.1.1 192.168.1.10
 
 
 📂 ملفات اللاب
-Packet Tracer File – Lab3_DHCP_Network.pkt
+[Packet Tracer File – Lab3_DHCP_Network.pkt](Lab3_DHCP_Network.pkt)
 
-topology Image
-
-pc ip config Image
-
-ping test Image
-
-command line Image
-
+![Topology](topology.png)
+![PC IP Config](pc-ip-config.png)
+![Ping Test](ping-test.png)
+![command line](command_line.png)
 ✅ النتيجة:
 تم تكوين DHCP بنجاح، والأجهزة حصلت على IP تلقائيًا من الراوتر.
