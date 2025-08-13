@@ -23,7 +23,8 @@
 ### 2️⃣ إعداد DHCP على الراوتر
 - افتح CLI للراوتر.
 - اكتب أوامر الإعداد.
-- - [Command Line](command-line.png)
+
+ ![Command Line](command-line.png)
 
 ---
 
