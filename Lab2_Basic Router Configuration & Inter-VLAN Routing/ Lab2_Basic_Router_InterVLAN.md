@@ -61,5 +61,7 @@ ping 192.168.10.2
 ### CLI Configuration
 ![CLI Commands](./cli-commands.png)
 
-### Ping Test
+#### Ping Test
 ![Ping Test](./ping-test.png)
+![Ping Test](./ping-test.png)
+
