@@ -52,9 +52,9 @@ Packet Tracer File – Lab3_DHCP_Network.pkt
 
 topology Image
 
-PC IP Config Image
+pc ip config Image
 
-Ping Test Image
+ping test Image
 
 command line Image
 
