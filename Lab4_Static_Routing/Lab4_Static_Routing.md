@@ -6,7 +6,7 @@
 ---
 
 ## 🖥 الأجهزة المستخدمة
-- 2 × Router 2911
+- 2 × Router 1841
 - 2 × Switch 2960
 - 2 × PC
 - كابلات Straight Through + Cross Over
