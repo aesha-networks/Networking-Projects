@@ -49,6 +49,6 @@
 من PC2 → Ping إلى PC1
 ![Ping Test](ping-test.png)
 ## 📁 ملفات اللاب
-[تحميل ملف Packet Tracer](Lab4_Default_Route.pkt)
+[تحميل ملف Packet Tracer](Lab5_Default_Route_Stub_Network.pkt)
 end
 write memory
