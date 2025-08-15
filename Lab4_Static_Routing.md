@@ -13,6 +13,9 @@
 
 ---
 
+![Topology](topology.png)
+
+
 ## 📌 خطوات الإعداد
 1. إعداد IP لكل Interface:
    - **R1**
@@ -45,18 +48,21 @@
    - **R2**
      ```
      ip route 192.168.1.0 255.255.255.0 10.0.0.1
+![Command Line](command-line.png)
+
+
      ```
 
 3. إعداد الـ PCs بالـ IP والـ Default Gateway.
 
 4. اختبار الاتصال بين الشبكتين باستخدام `ping`.
 
+
+![Ping Test](ping-test.png)
+
+
 ---
 
-## 📷 الصور
-![Topology](topology.png)
-![Command Line](command-line.png)
-![Ping Test](ping-test.png)
 
 ---
 
