@@ -6,4 +6,6 @@
 - [Lab 3 – DHCP Server Configuration in a Network](Lab3_DHCP_Configuration/Lab3_DHCP_Configuration.md)
 - [Lab4_Static_Routing/Lab4_Static_Routing.md](Lab4_Static_Routing/Lab4_Static_Routing.md)
 - [Lab5 – Default Route & Stub Network](Lab5_Default_Route_Stub_Network/Lab5_Default_Route.md)
+- [Lab 6 - DHCP Configuration on Router](Lab6_DHCP_Router/Lab6_DHCP_Router.md)  
+
 
