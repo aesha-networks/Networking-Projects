@@ -7,5 +7,5 @@
 - [Lab4_Static_Routing/Lab4_Static_Routing.md](Lab4_Static_Routing/Lab4_Static_Routing.md)
 - [Lab5 – Default Route & Stub Network](Lab5_Default_Route_Stub_Network/Lab5_Default_Route.md)
 - [Lab 6 - DHCP Configuration on Router](Lab6_DHCP_Router/Lab6_DHCP_Router.md)
--  [Lab 7 - DHCP Relay (Helper Address)](Lab7_DHCP_Relay/Lab7_DHCP_Relay.md)  
+- [Lab 7 - DHCP Relay (Helper Address)](Lab7_DHCP%20Relay%20Helper%20Address/Lab7_DHCP_Relay.md)
 
